@@ -4,7 +4,8 @@
 
 Battleship Game with Graphical User Interface (GUI) using MATLAB
 
-I hope you enjoy playing my battleship game 
+I hope you enjoy playing my battleship game
+
 This game is developed with GUI, therefore, the user will be able to see everything for example where they are placing ships, where they are attacking or getting hit, and the results message. 
 
 It is a turn-based battleship game where a player plays against a computer, and each gets a chance to attack the other. Each player and enemy get 10 chances to attack.
